@@ -138,7 +138,3 @@ Assume the current date is {datetime.now(timezone.utc).strftime('%B %d, %Y')} if
 ```
 sing the above latest information, Prepare a detailed report introduction on the topic -- .\n- The introduction should be succinct, well-structured, informative with markdown syntax.\n- As this introduction will be part of a larger report, do NOT include any other sections, which are generally present in a report.\n- The introduction should be preceded by an H1 heading with a suitable topic for the entire report.\n- You must include hyperlinks with markdown syntax (url website) related to the sentences wherever necessary.\nAssume that the current date is if required
 ```
-
-```
-
-```
